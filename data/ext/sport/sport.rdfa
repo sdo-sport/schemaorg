@@ -109,61 +109,61 @@
 
 <div typeof="http://schema.org/SportsEventStatusType" resource="http://schema.org/PreEvent">
   <link property="http://schema.org/isPartOf" href="http://sport.schema.org" />
-  <span class="h" pusroperty="rdfs:label">PreEvent</span>
+  <span class="h" property="rdfs:label">PreEvent</span>
   <span property="rdfs:comment"> </span>
 </div>
 
 <div typeof="http://schema.org/SportsEventStatusType" resource="http://schema.org/MidEvent">
   <link property="http://schema.org/isPartOf" href="http://sport.schema.org" />
-  <span class="h" pusroperty="rdfs:label">MidEvent</span>
+  <span class="h" property="rdfs:label">MidEvent</span>
   <span property="rdfs:comment"> </span>
 </div>
 
 <div typeof="http://schema.org/SportsEventStatusType" resource="http://schema.org/PostEvent">
   <link property="http://schema.org/isPartOf" href="http://sport.schema.org" />
-  <span class="h" pusroperty="rdfs:label">PostEvent</span>
+  <span class="h" property="rdfs:label">PostEvent</span>
   <span property="rdfs:comment"> </span>
 </div>
 
 <div typeof="http://schema.org/SportsEventStatusType" resource="http://schema.org/EventSuspended">
   <link property="http://schema.org/isPartOf" href="http://sport.schema.org" />
-  <span class="h" pusroperty="rdfs:label">EventSuspended</span>
+  <span class="h" property="rdfs:label">EventSuspended</span>
   <span property="rdfs:comment"> </span>
 </div>
 
 <div typeof="http://schema.org/SportsEventStatusType" resource="http://schema.org/EventHalted">
   <link property="http://schema.org/isPartOf" href="http://sport.schema.org" />
-  <span class="h" pusroperty="rdfs:label">EventHalted</span>
+  <span class="h" property="rdfs:label">EventHalted</span>
   <span property="rdfs:comment"> </span>
 </div>
 
 <div typeof="http://schema.org/SportsEventStatusType" resource="http://schema.org/EventForfeited">
   <link property="http://schema.org/isPartOf" href="http://sport.schema.org" />
-  <span class="h" pusroperty="rdfs:label">EventForfeited</span>
+  <span class="h" property="rdfs:label">EventForfeited</span>
   <span property="rdfs:comment"> </span>
 </div>
 
 <div typeof="http://schema.org/SportsEventStatusType" resource="http://schema.org/EventDelayed">
   <link property="http://schema.org/isPartOf" href="http://sport.schema.org" />
-  <span class="h" pusroperty="rdfs:label">EventDelayed</span>
+  <span class="h" property="rdfs:label">EventDelayed</span>
   <span property="rdfs:comment"> </span>
 </div>
 
 <div typeof="http://schema.org/SportsEventStatusType" resource="http://schema.org/EventIntermission">
   <link property="http://schema.org/isPartOf" href="http://sport.schema.org" />
-  <span class="h" pusroperty="rdfs:label">EventIntermission</span>
+  <span class="h" property="rdfs:label">EventIntermission</span>
   <span property="rdfs:comment"> </span>
 </div>
 
 <div typeof="http://schema.org/SportsEventStatusType" resource="http://schema.org/EventIfNecessary">
   <link property="http://schema.org/isPartOf" href="http://sport.schema.org" />
-  <span class="h" pusroperty="rdfs:label">EventIfNecessary</span>
+  <span class="h" property="rdfs:label">EventIfNecessary</span>
   <span property="rdfs:comment"> </span>
 </div>
 
 <div typeof="http://schema.org/SportsEventStatusType" resource="http://schema.org/EventDiscarded">
   <link property="http://schema.org/isPartOf" href="http://sport.schema.org" />
-  <span class="h" pusroperty="rdfs:label">EventDiscarded</span>
+  <span class="h" property="rdfs:label">EventDiscarded</span>
   <span property="rdfs:comment"> </span>
 </div>
 
